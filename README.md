@@ -1,6 +1,16 @@
 # Hi, I’m @adisaljusi 👋
-- Interested in FinTech, InsurTech, Computational Modelling, Analytics, Cloud, GIS, Crypto, etc.
-- 
+Interested in:
+- FinTech
+- InsurTech
+- Computational Modelling
+- Analytics
+- Cloud
+- GIS
+- Crypto
+- Sports Science (Nutrition and Myology)
+- etc
+
+I'm somewhat a mix of software engineering and science
 
 ## My Tech Stack that I also use: (dear recruiters, I really know this stuff)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
